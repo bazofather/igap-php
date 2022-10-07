@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bazofather\\IgapBot\\": "./src"
+            "Bazofather\\IGap\\" : "./src"
         },
         "files": [
             "./src/helpers.php"
